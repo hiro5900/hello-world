@@ -6,3 +6,5 @@ This tutorial focuses mainly on git and using github as its remote.
 This repository is built step by step in the tutorial.
 
 It now include steps for GitHUb
+
+This line shows how to push a local branch on github.
